@@ -1,0 +1,228 @@
+Testing SquareBase.py Starts
+--------------------------------------
+
+
+
+n =  0 work = 0 CPU time in sec = 0.0
+--------------------------------------
+   0   1   2
+   1   2   3
+   1   4   9
+n =  3 work = 3 CPU time in sec = 0.0
+--------------------------------------
+   0   1
+  -2   1
+   1   4
+n =  2 work = 2 CPU time in sec = 0.0
+--------------------------------------
+   0   1   2
+  -3  -2   3
+   4   9   9
+n =  3 work = 3 CPU time in sec = 0.0
+--------------------------------------
+   0   1   2   3   4
+  -4  -1   0   3  10
+   0   1   9  16 100
+n =  5 work = 5 CPU time in sec = 0.0
+Random tests on Array of size 0
+n =  0 work = 0 CPU time in sec = 0.0
+Random tests on Array of size 1001
+n =  1001 work = 1001 CPU time in sec = 0.0
+Random tests on Array of size 2002
+n =  2002 work = 2002 CPU time in sec = 0.0
+Random tests on Array of size 3003
+n =  3003 work = 3003 CPU time in sec = 0.0
+Random tests on Array of size 4004
+n =  4004 work = 4004 CPU time in sec = 0.0
+Random tests on Array of size 5005
+n =  5005 work = 5005 CPU time in sec = 0.015625
+Random tests on Array of size 6006
+n =  6006 work = 6006 CPU time in sec = 0.0
+Random tests on Array of size 7007
+n =  7007 work = 7007 CPU time in sec = 0.015625
+Random tests on Array of size 8008
+n =  8008 work = 8008 CPU time in sec = 0.015625
+Random tests on Array of size 9009
+n =  9009 work = 9009 CPU time in sec = 0.0
+Random tests on Array of size 10010
+n =  10010 work = 10010 CPU time in sec = 0.015625
+Random tests on Array of size 11011
+n =  11011 work = 11011 CPU time in sec = 0.0
+Random tests on Array of size 12012
+n =  12012 work = 12012 CPU time in sec = 0.015625
+Random tests on Array of size 13013
+n =  13013 work = 13013 CPU time in sec = 0.0
+Random tests on Array of size 14014
+n =  14014 work = 14014 CPU time in sec = 0.015625
+Random tests on Array of size 15015
+n =  15015 work = 15015 CPU time in sec = 0.015625
+Random tests on Array of size 16016
+n =  16016 work = 16016 CPU time in sec = 0.0
+Random tests on Array of size 17017
+n =  17017 work = 17017 CPU time in sec = 0.015625
+Random tests on Array of size 18018
+n =  18018 work = 18018 CPU time in sec = 0.015625
+Random tests on Array of size 19019
+n =  19019 work = 19019 CPU time in sec = 0.03125
+Random tests on Array of size 20020
+n =  20020 work = 20020 CPU time in sec = 0.03125
+Random tests on Array of size 21021
+n =  21021 work = 21021 CPU time in sec = 0.015625
+Random tests on Array of size 22022
+n =  22022 work = 22022 CPU time in sec = 0.015625
+Random tests on Array of size 23023
+n =  23023 work = 23023 CPU time in sec = 0.015625
+Random tests on Array of size 24024
+n =  24024 work = 24024 CPU time in sec = 0.015625
+Random tests on Array of size 25025
+n =  25025 work = 25025 CPU time in sec = 0.03125
+Random tests on Array of size 26026
+n =  26026 work = 26026 CPU time in sec = 0.015625
+Random tests on Array of size 27027
+n =  27027 work = 27027 CPU time in sec = 0.015625
+Random tests on Array of size 28028
+n =  28028 work = 28028 CPU time in sec = 0.015625
+Random tests on Array of size 29029
+n =  29029 work = 29029 CPU time in sec = 0.015625
+Random tests on Array of size 30030
+n =  30030 work = 30030 CPU time in sec = 0.015625
+Random tests on Array of size 31031
+n =  31031 work = 31031 CPU time in sec = 0.015625
+Random tests on Array of size 32032
+n =  32032 work = 32032 CPU time in sec = 0.015625
+Random tests on Array of size 33033
+n =  33033 work = 33033 CPU time in sec = 0.015625
+Random tests on Array of size 34034
+n =  34034 work = 34034 CPU time in sec = 0.015625
+Random tests on Array of size 35035
+n =  35035 work = 35035 CPU time in sec = 0.015625
+Random tests on Array of size 36036
+n =  36036 work = 36036 CPU time in sec = 0.015625
+Random tests on Array of size 37037
+n =  37037 work = 37037 CPU time in sec = 0.03125
+Random tests on Array of size 38038
+n =  38038 work = 38038 CPU time in sec = 0.015625
+Random tests on Array of size 39039
+n =  39039 work = 39039 CPU time in sec = 0.015625
+Random tests on Array of size 40040
+n =  40040 work = 40040 CPU time in sec = 0.03125
+Random tests on Array of size 41041
+n =  41041 work = 41041 CPU time in sec = 0.03125
+Random tests on Array of size 42042
+n =  42042 work = 42042 CPU time in sec = 0.046875
+Random tests on Array of size 43043
+n =  43043 work = 43043 CPU time in sec = 0.015625
+Random tests on Array of size 44044
+n =  44044 work = 44044 CPU time in sec = 0.03125
+Random tests on Array of size 45045
+n =  45045 work = 45045 CPU time in sec = 0.015625
+Random tests on Array of size 46046
+n =  46046 work = 46046 CPU time in sec = 0.015625
+Random tests on Array of size 47047
+n =  47047 work = 47047 CPU time in sec = 0.03125
+Random tests on Array of size 48048
+n =  48048 work = 48048 CPU time in sec = 0.015625
+Random tests on Array of size 49049
+n =  49049 work = 49049 CPU time in sec = 0.015625
+Random tests on Array of size 50050
+n =  50050 work = 50050 CPU time in sec = 0.03125
+Random tests on Array of size 51051
+n =  51051 work = 51051 CPU time in sec = 0.03125
+Random tests on Array of size 52052
+n =  52052 work = 52052 CPU time in sec = 0.03125
+Random tests on Array of size 53053
+n =  53053 work = 53053 CPU time in sec = 0.03125
+Random tests on Array of size 54054
+n =  54054 work = 54054 CPU time in sec = 0.03125
+Random tests on Array of size 55055
+n =  55055 work = 55055 CPU time in sec = 0.03125
+Random tests on Array of size 56056
+n =  56056 work = 56056 CPU time in sec = 0.03125
+Random tests on Array of size 57057
+n =  57057 work = 57057 CPU time in sec = 0.03125
+Random tests on Array of size 58058
+n =  58058 work = 58058 CPU time in sec = 0.03125
+Random tests on Array of size 59059
+n =  59059 work = 59059 CPU time in sec = 0.03125
+Random tests on Array of size 60060
+n =  60060 work = 60060 CPU time in sec = 0.03125
+Random tests on Array of size 61061
+n =  61061 work = 61061 CPU time in sec = 0.03125
+Random tests on Array of size 62062
+n =  62062 work = 62062 CPU time in sec = 0.03125
+Random tests on Array of size 63063
+n =  63063 work = 63063 CPU time in sec = 0.0625
+Random tests on Array of size 64064
+n =  64064 work = 64064 CPU time in sec = 0.0625
+Random tests on Array of size 65065
+n =  65065 work = 65065 CPU time in sec = 0.078125
+Random tests on Array of size 66066
+n =  66066 work = 66066 CPU time in sec = 0.0625
+Random tests on Array of size 67067
+n =  67067 work = 67067 CPU time in sec = 0.0625
+Random tests on Array of size 68068
+n =  68068 work = 68068 CPU time in sec = 0.03125
+Random tests on Array of size 69069
+n =  69069 work = 69069 CPU time in sec = 0.03125
+Random tests on Array of size 70070
+n =  70070 work = 70070 CPU time in sec = 0.046875
+Random tests on Array of size 71071
+n =  71071 work = 71071 CPU time in sec = 0.046875
+Random tests on Array of size 72072
+n =  72072 work = 72072 CPU time in sec = 0.0625
+Random tests on Array of size 73073
+n =  73073 work = 73073 CPU time in sec = 0.046875
+Random tests on Array of size 74074
+n =  74074 work = 74074 CPU time in sec = 0.03125
+Random tests on Array of size 75075
+n =  75075 work = 75075 CPU time in sec = 0.046875
+Random tests on Array of size 76076
+n =  76076 work = 76076 CPU time in sec = 0.0625
+Random tests on Array of size 77077
+n =  77077 work = 77077 CPU time in sec = 0.046875
+Random tests on Array of size 78078
+n =  78078 work = 78078 CPU time in sec = 0.046875
+Random tests on Array of size 79079
+n =  79079 work = 79079 CPU time in sec = 0.046875
+Random tests on Array of size 80080
+n =  80080 work = 80080 CPU time in sec = 0.046875
+Random tests on Array of size 81081
+n =  81081 work = 81081 CPU time in sec = 0.078125
+Random tests on Array of size 82082
+n =  82082 work = 82082 CPU time in sec = 0.078125
+Random tests on Array of size 83083
+n =  83083 work = 83083 CPU time in sec = 0.046875
+Random tests on Array of size 84084
+n =  84084 work = 84084 CPU time in sec = 0.0625
+Random tests on Array of size 85085
+n =  85085 work = 85085 CPU time in sec = 0.09375
+Random tests on Array of size 86086
+n =  86086 work = 86086 CPU time in sec = 0.046875
+Random tests on Array of size 87087
+n =  87087 work = 87087 CPU time in sec = 0.046875
+Random tests on Array of size 88088
+n =  88088 work = 88088 CPU time in sec = 0.046875
+Random tests on Array of size 89089
+n =  89089 work = 89089 CPU time in sec = 0.046875
+Random tests on Array of size 90090
+n =  90090 work = 90090 CPU time in sec = 0.046875
+Random tests on Array of size 91091
+n =  91091 work = 91091 CPU time in sec = 0.0625
+Random tests on Array of size 92092
+n =  92092 work = 92092 CPU time in sec = 0.046875
+Random tests on Array of size 93093
+n =  93093 work = 93093 CPU time in sec = 0.0625
+Random tests on Array of size 94094
+n =  94094 work = 94094 CPU time in sec = 0.046875
+Random tests on Array of size 95095
+n =  95095 work = 95095 CPU time in sec = 0.078125
+Random tests on Array of size 96096
+n =  96096 work = 96096 CPU time in sec = 0.046875
+Random tests on Array of size 97097
+n =  97097 work = 97097 CPU time in sec = 0.0625
+Random tests on Array of size 98098
+n =  98098 work = 98098 CPU time in sec = 0.046875
+Random tests on Array of size 99099
+n =  99099 work = 99099 CPU time in sec = 0.0625
+ALL TESTS PASSED
+Testing SquareBase.py Starts
