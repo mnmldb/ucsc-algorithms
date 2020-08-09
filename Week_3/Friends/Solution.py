@@ -25,3 +25,6 @@ class Solution:
  
   ##Implement your code BELOW
   ##You can have any number of private variables and functions
+
+  def _alg(self):
+    pass
