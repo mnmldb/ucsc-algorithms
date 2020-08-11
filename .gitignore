@@ -3,7 +3,8 @@
 /_General/
 /_UCSC_Google/
 /_Recording/
-/Working/
+Working/
+Old/
 
 ## extension
 *.pdf
@@ -11,6 +12,7 @@
 *.gdoc
 *.png
 *.txt
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
