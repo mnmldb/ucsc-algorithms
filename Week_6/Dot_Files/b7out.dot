@@ -1,0 +1,19 @@
+## Jagadeesh Vasudevamurthy ####
+graph g {
+	overlap=false; splines=true
+	edge [style=dotted, weight=10, len=.2]
+	subgraph cluster_RED {
+		RED [pos="-1,0!", color=red /* , style=invis */]
+		0 -- RED
+		2 -- RED
+	}
+	subgraph cluster_BLUE {
+		RED [pos="-1,0!", color=blue /* , style=invis */]
+		1 -- BLUE
+		3 -- BLUE
+	}
+	edge [style="", weight=1, len=1]
+	0--1
+	2--3
+	label= "[[1], [0], [3], [2]]"
+}

@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+    jupyter_lab:
+        build: .
+        # image: '3ad6d71d7ae3'
+        ports:
+            - '8888:8888'
+        volumes:
+            - '../:/work/'
+        tty: true
+        stdin_open: true
+
